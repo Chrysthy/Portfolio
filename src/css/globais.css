@@ -1,8 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 
 
 html {
@@ -14,7 +12,7 @@ html {
 
 body {
   background-color: var(--cor-fundo-cinza-escuro);
-  font-family: var(--fonte-primaria);
+  font-family: var(--fonte-dancing);
   font-size: var(--fonte-normal);
 }
 
@@ -78,7 +76,7 @@ body {
 .section-title h2 {
   font-size: var(--fonte-gigante);
   font-weight: 500;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .botao {

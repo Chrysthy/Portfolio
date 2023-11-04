@@ -3,16 +3,16 @@
 }
 
 .header .logo {
-    font-family: var(--fonte-secundaria);
-    font-size: var(--fonte-extra-grande);
+    font-family: var(--fonte-dancing);
+    font-size: var(--fonte-gigante);
     color: var(--cor-branca);
     border: 2px solid var(--cor-branca);
-    border-radius: 50%;
-    width: 65px;
-    height: 65px;
+    border-radius: 5%;
+    width: 85px;
+    height: 60px;
     line-height: 55px;
     text-align: center;
-    text-decoration: underline;
+    /* text-decoration: underline; */
     transition: 0.2s;
 }
 
@@ -28,9 +28,9 @@
 .header nav li a {
     text-transform: capitalize;
     color: var(--cor-branca);
-    font-size: 2rem;
+    font-size: 3.3rem;
     font-weight: 500;
-    padding: 10px 20px;
+    padding: 15px 25px;
     transition: 0.2s;
     border-radius: 50px;
     letter-spacing: 1px;
