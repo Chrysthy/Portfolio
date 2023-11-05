@@ -26,7 +26,8 @@
 }
 
 .sobre-mim .informacoes-sobre-mim p {
-    font-size: 1.8rem;
+    font-family: var(--fonte-secundaria);
+    font-size: 2rem;
     font-weight: 300;
     margin-bottom: 20px;
 }
