@@ -55,7 +55,7 @@ body {
 }
 
 .outer-shadow {
-  box-shadow: 3px 3px #222327, -3px -3px 3px #454545;
+  box-shadow: 1px 1px #f25cd4, -3px -3px 3px #454545;
 }
 
 .inner-shadow {
