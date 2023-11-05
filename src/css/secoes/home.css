@@ -33,6 +33,7 @@
 }
 
 .home .img-home .img-box img {
+    /* ou width: 100%; */
     width: 90%;
     border-radius: 50%;
     border: 10px solid transparent;

@@ -15,7 +15,9 @@
 .habilidades .container-habilidades .informacoes p,
 .habilidades .container-habilidades .informacoes h3,
 .habilidades .container-habilidades .informacoes .logo i{
-    transition: all .3s ease;
+    transition: all 0.3s ease;
+
+    /* um fallback para outros navegadores */
     -moz-transition: all .3s ease;
     -o-transition: all .3s ease;
     -webkit-transition: all .3s ease;
