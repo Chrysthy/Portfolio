@@ -41,8 +41,6 @@
 
 .header nav ul li a:hover {
     background-color: var(--cor-primaria);
-    ;
-    color: var(--cor-branca);
 }
 
 .header .menu {
