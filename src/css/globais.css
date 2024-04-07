@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  background-color: var(--cor-fundo-cinza-escuro);
+  background: linear-gradient(150deg, #000000, #646464);
   font-family: var(--fonte-dancing);
   font-size: var(--fonte-normal);
 }
