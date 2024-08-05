@@ -24,27 +24,23 @@ I'm Chrystine Martins, and I'm excited to share with you my journey, experiences
 ## 🛠 Technologies
 
 - HTML e CSS
-- JavaScript
 - Git e GitHub
-- Figma
 
 
 ## ✨ Features
 
-- Add links to your social media, websites, and other online resources;
+- Presentation of myself;
 - Responsive and easy-to-use interface;
-- Light and dark modes with automatic switching;
-- Simple and quick customization;
+- Simple and quick customization.
+
 
 ## 💻 Project
 
-- The Online Business Card is a link aggregator used as an online business card. It allows you to centralize various important links in a single page, making it easier to share your information and contacts.
+- The portfolio is a presentation of myself and my work as a developer.
 
 ## 📜 License
 
 * This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
-
-
 
 
 <br>
