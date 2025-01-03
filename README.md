@@ -20,12 +20,14 @@ I'm Chrystine Martins, and I'm excited to share with you my journey, experiences
 
 </p>
 
+<br>
 
 ## 🛠 Technologies
 
 - HTML e CSS
 - Git e GitHub
 
+<br>
 
 ## ✨ Features
 
@@ -33,10 +35,14 @@ I'm Chrystine Martins, and I'm excited to share with you my journey, experiences
 - Responsive and easy-to-use interface;
 - Simple and quick customization.
 
+<br>
 
 ## 💻 Project
 
 - The portfolio is a presentation of myself and my work as a developer.
+
+- The portfolio is a presentation of myself and my work as a developer.
+
 
 ## 📜 License
 
