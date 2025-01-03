@@ -41,8 +41,7 @@ I'm Chrystine Martins, and I'm excited to share with you my journey, experiences
 
 - The portfolio is a presentation of myself and my work as a developer.
 
-- The portfolio is a presentation of myself and my work as a developer.
-
+<br>
 
 ## 📜 License
 
@@ -51,10 +50,11 @@ I'm Chrystine Martins, and I'm excited to share with you my journey, experiences
 
 <br>
 
-<h2> Suggestions </h2>
-<p> Do you want to add or report an error? Please, feel free to do it! 😉 </p>
+## 🫱🏻‍🫲🏻 Contributing
+<p> Contributions, issues, and feature requests are welcome! Please, feel free to do it! 😉 </p>
 
 <br>
-<hr>
-<h2> Support </h2>
-<p> If you liked it, press the Star ⭐ Button, please! 😄 </p>
+
+
+## 🌟 Support
+<p> If you like this project, please give it a star ⭐ and share it with others! 😄 </p>
