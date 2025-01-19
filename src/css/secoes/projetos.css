@@ -70,5 +70,6 @@
 }
 
 .section-title p a:hover {
-    color: var(--cor-primaria)
+    color: var(--cor-primaria);
+    border-bottom: 3px solid var(--cor-primaria);
 }
