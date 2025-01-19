@@ -33,19 +33,21 @@
     font-size: 4rem;
     padding: 15px 25px;
     transition: 0.2s;
-    border-radius: 50px;
+    /* border-radius: 50px; */
     letter-spacing: 1px;
     user-select: none;
 }
 
 .header nav ul li a:hover {
-    background-color: var(--cor-primaria);
+    /* background-color: var(--cor-primaria); */
+    border-bottom: 3px solid var(--cor-primaria);
+
 }
 
 .header .menu {
     display: none;
-    width: 60px;
-    height: 60px;
+    /* width: 60px;
+    height: 60px; */
     align-self: flex-end;
 }
 
