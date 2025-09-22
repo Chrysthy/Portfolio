@@ -19,7 +19,7 @@ I'm Chrystine Martins, and I'm excited to share with you my journey, experiences
 ## 📸 Screenshots
 
 <p align="center">
-  <img src=".github/portfolio.gif" alt="meu portifolio">
+  <img src=".github/gif-do-projeto.gif" alt="meu portifolio">
 
 </p>
 
@@ -27,7 +27,9 @@ I'm Chrystine Martins, and I'm excited to share with you my journey, experiences
 
 ## 🛠 Technologies
 
-- HTML e CSS
+- HTML
+- CSS
+- JavaScript
 - Git e GitHub
 
 <br>
