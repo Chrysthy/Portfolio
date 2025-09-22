@@ -16,6 +16,8 @@ I'm Chrystine Martins, and I'm excited to share with you my journey, experiences
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=c920c9&labelColor=000000">
 </p>
 
+## 📸 Screenshots
+
 <p align="center">
   <img src=".github/portfolio.gif" alt="meu portifolio">
 
